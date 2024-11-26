@@ -90,4 +90,10 @@ footer {
 footer p {
     font-size: 1em;
 }
- 
+ .project-image {
+    width: 300px; /* Resize the width */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px auto; /* Center the image with spacing */
+    display: block; /* Ensure it is block-level */
+}
+
